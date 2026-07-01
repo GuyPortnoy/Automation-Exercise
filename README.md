@@ -53,28 +53,6 @@ const browser = await chromium.launch({
 });
 ```
 
-## Error Handling
-
-The automation includes error handling to:
-
-- Catch unexpected exceptions
-- Prevent abrupt termination
-- Provide meaningful console output
-- Simplify debugging
-
-## Customization
-
-You can easily modify the script to:
-
-- Change target URLs
-- Automate different workflows
-- Fill forms
-- Upload or download files
-- Capture screenshots
-- Generate PDFs
-- Extract data from websites
-- Schedule recurring automation tasks
-
 ## Troubleshooting
 
 ### Missing Playwright browsers
